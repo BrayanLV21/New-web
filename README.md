@@ -12,4 +12,4 @@
 **El jueves juega el Barça**
 
 ```hola```
-[Tigre Chuleta]
+[Tigre Chuleta](Tigre Chuleta)
