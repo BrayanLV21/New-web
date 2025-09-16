@@ -10,6 +10,8 @@
 
 
 *el jueves juega el Barça*
+
+
 // Aquest és un bloc de codi
 exemple de funció () {
 // Exemple de codi
