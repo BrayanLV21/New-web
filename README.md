@@ -3,6 +3,7 @@
 ## Tema 2
 ### Tema 3 
 Lista de la compra de esta semana:
+
 -pollo
 -carne
 -ensalada
